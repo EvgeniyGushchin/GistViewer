@@ -1,0 +1,21 @@
+{
+  "login": "HugsLibRecordKeeper",
+  "id": 23506375,
+  "node_id": "MDQ6VXNlcjIzNTA2Mzc1",
+  "avatar_url": "https://avatars.githubusercontent.com/u/23506375?v=4",
+  "gravatar_id": "",
+  "url": "https://api.github.com/users/HugsLibRecordKeeper",
+  "html_url": "https://github.com/HugsLibRecordKeeper",
+  "followers_url": "https://api.github.com/users/HugsLibRecordKeeper/followers",
+  "following_url": "https://api.github.com/users/HugsLibRecordKeeper/following{/other_user}",
+  "gists_url": "https://api.github.com/users/HugsLibRecordKeeper/gists{/gist_id}",
+  "starred_url": "https://api.github.com/users/HugsLibRecordKeeper/starred{/owner}{/repo}",
+  "subscriptions_url": "https://api.github.com/users/HugsLibRecordKeeper/subscriptions",
+  "organizations_url": "https://api.github.com/users/HugsLibRecordKeeper/orgs",
+  "repos_url": "https://api.github.com/users/HugsLibRecordKeeper/repos",
+  "events_url": "https://api.github.com/users/HugsLibRecordKeeper/events{/privacy}",
+  "received_events_url": "https://api.github.com/users/HugsLibRecordKeeper/received_events",
+  "type": "User",
+  "user_view_type": "public",
+  "site_admin": false
+}
