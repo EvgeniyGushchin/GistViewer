@@ -37,7 +37,7 @@ class GitHubAuthManager: NSObject, ASWebAuthenticationPresentationContextProvidi
         return nil
     }
     
-    private let clientID = "Ov23liLvyq0RRnYh7HMn"
+    private let clientID = "YOUR_ID"
     
     func presentationAnchor(for session: ASWebAuthenticationSession) -> ASPresentationAnchor {
         return GitHubAuthManager.keyWindow!
@@ -78,7 +78,7 @@ class GitHubAuthManager: NSObject, ASWebAuthenticationPresentationContextProvidi
     }
     
     private func exchangeCodeForToken(code: String) async throws -> String {
-        let clientSecret = "f1045da08b868f810b031e2c6f3551e92bc2406b" // Добавьте ваш client secret
+        let clientSecret = "YOUR_SECRET" // client secret
         let tokenURL = URL(string: "https://github.com/login/oauth/access_token")!
         
         var request = URLRequest(url: tokenURL)
